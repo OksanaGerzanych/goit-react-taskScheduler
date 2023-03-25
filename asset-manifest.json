@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/goit-react-taskScheduler/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-taskScheduler/static/js/main.083d548e.js",
+    "main.js": "/goit-react-taskScheduler/static/js/main.c8009e2f.js",
     "index.html": "/goit-react-taskScheduler/index.html",
-    "main.7acaea2f.css.map": "/goit-react-taskScheduler/static/css/main.7acaea2f.css.map",
-    "main.083d548e.js.map": "/goit-react-taskScheduler/static/js/main.083d548e.js.map"
+    "main.c8009e2f.js.map": "/goit-react-taskScheduler/static/js/main.c8009e2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.083d548e.js"
+    "static/js/main.c8009e2f.js"
   ]
 }
