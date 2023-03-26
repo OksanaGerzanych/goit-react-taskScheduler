@@ -1,9 +1,14 @@
-import { FiltrButton } from "./Button.styled"
+import { FiltrButton } from './Button.styled';
 
-export const Button = ({children, selected = false }) => {
-    return (
-        <FiltrButton selected type="button">
-        {children }
-     </FiltrButton>
-    )
-}
+export const Button = ({
+ selected = false,
+  type = 'button',
+  children,
+  ...otherProps }) => {
+  return <FiltrButton type={type} selected {...otherProps}>{children}</FiltrButton>;
+};
+
+
+      
+
+      
