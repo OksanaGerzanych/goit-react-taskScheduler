@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/goit-react-taskScheduler/static/js/main.c8009e2f.js",
+    "main.js": "/goit-react-taskScheduler/static/js/main.4f22e1ae.js",
     "index.html": "/goit-react-taskScheduler/index.html",
-    "main.c8009e2f.js.map": "/goit-react-taskScheduler/static/js/main.c8009e2f.js.map"
+    "main.4f22e1ae.js.map": "/goit-react-taskScheduler/static/js/main.4f22e1ae.js.map"
   },
   "entrypoints": [
-    "static/js/main.c8009e2f.js"
+    "static/js/main.4f22e1ae.js"
   ]
 }
